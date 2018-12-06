@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<ArrayOfGoodCategory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GoodCategory>
+    <GUID>4178368e-128d-4156-bef8-d29bbd600449</GUID>
+    <Name>Ванная</Name>
+    <Description>Товары для ванной комнаты</Description>
+  </GoodCategory>
+  <GoodCategory>
+    <GUID>06bc7780-ae2a-40c3-9188-59aa9c9e7c15</GUID>
+    <Name>Спальня</Name>
+    <Description>Мебель для спальни</Description>
+  </GoodCategory>
+  <GoodCategory>
+    <GUID>da2945cf-d159-48ed-bd0a-402901cbedd0</GUID>
+    <Name>Кухня</Name>
+    <Description>Оборудование и мебель для кухни</Description>
+  </GoodCategory>
+  <GoodCategory>
+    <GUID>2bfdd86e-c068-4c24-a0ce-39478afbb0cd</GUID>
+    <Name>Гостинная</Name>
+    <Description>Мебель для гостинной</Description>
+  </GoodCategory>
+  <GoodCategory>
+    <GUID>69a425ee-53d0-4f2c-9309-e8e3dc034741</GUID>
+    <Name>Тестовая</Name>
+    <Description>None</Description>
+  </GoodCategory>
+</ArrayOfGoodCategory>

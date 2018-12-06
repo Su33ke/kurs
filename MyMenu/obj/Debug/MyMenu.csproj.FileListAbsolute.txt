@@ -1,0 +1,17 @@
+C:\Users\Vyacheslav\source\repos\ooplab3\MyMenu\bin\Debug\MyMenu.dll
+C:\Users\Vyacheslav\source\repos\ooplab3\MyMenu\bin\Debug\MyMenu.pdb
+C:\Users\Vyacheslav\source\repos\ooplab3\MyMenu\bin\Debug\MyServices.dll
+C:\Users\Vyacheslav\source\repos\ooplab3\MyMenu\bin\Debug\MyDataBase.dll
+C:\Users\Vyacheslav\source\repos\ooplab3\MyMenu\bin\Debug\MyServices.pdb
+C:\Users\Vyacheslav\source\repos\ooplab3\MyMenu\bin\Debug\MyDataBase.pdb
+C:\Users\Vyacheslav\source\repos\ooplab3\MyMenu\obj\Debug\MyMenu.csprojResolveAssemblyReference.cache
+C:\Users\Vyacheslav\source\repos\ooplab3\MyMenu\obj\Debug\MyMenu.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\source\repos\ooplab3\MyMenu\obj\Debug\MyMenu.csproj.CopyComplete
+C:\Users\Vyacheslav\source\repos\ooplab3\MyMenu\obj\Debug\MyMenu.dll
+C:\Users\Vyacheslav\source\repos\ooplab3\MyMenu\obj\Debug\MyMenu.pdb
+C:\Users\Vyacheslav\source\repos\ooplab3\MyMenu\bin\Debug\Classes.dll
+C:\Users\Vyacheslav\source\repos\ooplab3\MyMenu\bin\Debug\Classes.pdb
+C:\Users\Vyacheslav\source\repos\KURSOWAYA\MyMenu\obj\Debug\MyMenu.csprojResolveAssemblyReference.cache
+C:\Users\Vyacheslav\source\repos\KURSOWAYA\MyMenu\obj\Debug\MyMenu.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\source\repos\KURSOWAYA\MyMenu\obj\Debug\MyMenu.dll
+C:\Users\Vyacheslav\source\repos\KURSOWAYA\MyMenu\obj\Debug\MyMenu.pdb

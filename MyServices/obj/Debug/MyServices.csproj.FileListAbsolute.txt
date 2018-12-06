@@ -1,0 +1,9 @@
+C:\Users\Vyacheslav\source\repos\ooplab3\MyServices\obj\Debug\MyServices.csprojResolveAssemblyReference.cache
+C:\Users\Vyacheslav\source\repos\ooplab3\MyServices\obj\Debug\MyServices.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\source\repos\ooplab3\MyServices\bin\Debug\MyServices.dll
+C:\Users\Vyacheslav\source\repos\ooplab3\MyServices\bin\Debug\MyServices.pdb
+C:\Users\Vyacheslav\source\repos\ooplab3\MyServices\bin\Debug\MyDataBase.dll
+C:\Users\Vyacheslav\source\repos\ooplab3\MyServices\bin\Debug\MyDataBase.pdb
+C:\Users\Vyacheslav\source\repos\ooplab3\MyServices\obj\Debug\MyServices.csproj.CopyComplete
+C:\Users\Vyacheslav\source\repos\ooplab3\MyServices\obj\Debug\MyServices.dll
+C:\Users\Vyacheslav\source\repos\ooplab3\MyServices\obj\Debug\MyServices.pdb

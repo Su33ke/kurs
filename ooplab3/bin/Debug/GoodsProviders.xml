@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfGoodsProvider xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GoodsProvider>
+    <GUID>23ead20d-60f5-4ea9-ab3f-20c9e157f5f6</GUID>
+    <ProvideGoodsIds>
+      <guid>d0caf520-9c09-4f7c-b4d6-b3764960580e</guid>
+      <guid>6e906633-7bda-4aeb-a7e2-91a3eb77ab45</guid>
+      <guid>006c5cfb-dd1d-4d84-a585-b4d457a13129</guid>
+      <guid>aae60490-7fc9-471f-ad13-34cfc45c22cb</guid>
+      <guid>5113e22c-ce60-46cf-a9a1-e3f9e3de21ac</guid>
+      <guid>d412c1b5-5d35-4fe1-b0b7-6cc7b7d5d154</guid>
+      <guid>56f02b6f-ea1f-43fe-aadf-779894b7a72f</guid>
+      <guid>19951606-500e-4ba8-9f7f-4846bf6eea3f</guid>
+      <guid>0dd51115-9bf0-424c-90f3-a7ec89869b4c</guid>
+      <guid>80cb2e8a-5afc-41ab-9e3a-62c5e5087a99</guid>
+    </ProvideGoodsIds>
+    <FirstName>Иван</FirstName>
+    <LastName>Иванович</LastName>
+  </GoodsProvider>
+  <GoodsProvider>
+    <GUID>6f918199-05bf-4659-899c-41d1df1e6654</GUID>
+    <FirstName>Петр</FirstName>
+    <LastName>Иванович</LastName>
+  </GoodsProvider>
+  <GoodsProvider>
+    <GUID>a44650fe-1c22-42ce-9eea-002c06d0f07a</GUID>
+    <FirstName>Иван</FirstName>
+    <LastName>Петрович</LastName>
+  </GoodsProvider>
+  <GoodsProvider>
+    <GUID>986c7b90-51df-4319-b84b-bcacad33b873</GUID>
+    <FirstName>Степан</FirstName>
+    <LastName>Степанович</LastName>
+  </GoodsProvider>
+</ArrayOfGoodsProvider>

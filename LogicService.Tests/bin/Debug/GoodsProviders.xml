@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ArrayOfGoodsProvider xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GoodsProvider>
+    <GUID>2b1db4ec-ca44-41c6-92d3-062d799facb0</GUID>
+    <ProvideGoodsIds>
+      <guid>6c41fbe1-223a-4164-949e-a37e17c3aec4</guid>
+      <guid>7171ed2e-f7a3-492a-9a12-f14be5955d3b</guid>
+    </ProvideGoodsIds>
+    <FirstName>NameTest</FirstName>
+    <LastName>TestName</LastName>
+  </GoodsProvider>
+</ArrayOfGoodsProvider>

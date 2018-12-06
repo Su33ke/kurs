@@ -1,0 +1,8 @@
+C:\Users\Vyacheslav\source\repos\ooplab3\MyClasses\bin\Debug\netstandard1.6\MyClasses.deps.json
+C:\Users\Vyacheslav\source\repos\ooplab3\MyClasses\bin\Debug\netstandard1.6\MyClasses.dll
+C:\Users\Vyacheslav\source\repos\ooplab3\MyClasses\bin\Debug\netstandard1.6\MyClasses.pdb
+C:\Users\Vyacheslav\source\repos\ooplab3\MyClasses\obj\Debug\netstandard1.6\MyClasses.csprojResolveAssemblyReference.cache
+C:\Users\Vyacheslav\source\repos\ooplab3\MyClasses\obj\Debug\netstandard1.6\MyClasses.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\source\repos\ooplab3\MyClasses\obj\Debug\netstandard1.6\MyClasses.AssemblyInfo.cs
+C:\Users\Vyacheslav\source\repos\ooplab3\MyClasses\obj\Debug\netstandard1.6\MyClasses.dll
+C:\Users\Vyacheslav\source\repos\ooplab3\MyClasses\obj\Debug\netstandard1.6\MyClasses.pdb

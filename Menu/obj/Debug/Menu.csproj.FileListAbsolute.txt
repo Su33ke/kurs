@@ -1,0 +1,11 @@
+C:\Users\Vyacheslav\source\repos\KURSOWAYA\Menu\bin\Debug\Menu.dll
+C:\Users\Vyacheslav\source\repos\KURSOWAYA\Menu\bin\Debug\Menu.pdb
+C:\Users\Vyacheslav\source\repos\KURSOWAYA\Menu\bin\Debug\MyServices.dll
+C:\Users\Vyacheslav\source\repos\KURSOWAYA\Menu\bin\Debug\MyDataBase.dll
+C:\Users\Vyacheslav\source\repos\KURSOWAYA\Menu\bin\Debug\MyServices.pdb
+C:\Users\Vyacheslav\source\repos\KURSOWAYA\Menu\bin\Debug\MyDataBase.pdb
+C:\Users\Vyacheslav\source\repos\KURSOWAYA\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\Vyacheslav\source\repos\KURSOWAYA\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\source\repos\KURSOWAYA\Menu\obj\Debug\Menu.csproj.CopyComplete
+C:\Users\Vyacheslav\source\repos\KURSOWAYA\Menu\obj\Debug\Menu.dll
+C:\Users\Vyacheslav\source\repos\KURSOWAYA\Menu\obj\Debug\Menu.pdb

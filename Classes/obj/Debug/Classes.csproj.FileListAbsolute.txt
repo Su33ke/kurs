@@ -1,0 +1,12 @@
+C:\Users\Vyacheslav\source\repos\ooplab3\Classes\bin\Debug\Classes.dll
+C:\Users\Vyacheslav\source\repos\ooplab3\Classes\bin\Debug\Classes.pdb
+C:\Users\Vyacheslav\source\repos\ooplab3\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\Vyacheslav\source\repos\ooplab3\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\source\repos\ooplab3\Classes\obj\Debug\Classes.dll
+C:\Users\Vyacheslav\source\repos\ooplab3\Classes\obj\Debug\Classes.pdb
+C:\Users\Vyacheslav\source\repos\KURSOWAYA\Classes\bin\Debug\Classes.dll
+C:\Users\Vyacheslav\source\repos\KURSOWAYA\Classes\bin\Debug\Classes.pdb
+C:\Users\Vyacheslav\source\repos\KURSOWAYA\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\source\repos\KURSOWAYA\Classes\obj\Debug\Classes.dll
+C:\Users\Vyacheslav\source\repos\KURSOWAYA\Classes\obj\Debug\Classes.pdb
+C:\Users\Vyacheslav\source\repos\KURSOWAYA\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
